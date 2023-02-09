@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="resources">
+    <file>app logo.png</file>
+    <file>loading.gif</file>
+    <file>loading.png</file>
+    <file>loading_img.jpg</file>
+    <file>logo.png</file>
+    <file>ready.png</file>
+    <file>sanmina-logo.png</file>
+    <file>sketch.png</file>
+    <file>temp_.png</file>
+  </qresource>
+</RCC>

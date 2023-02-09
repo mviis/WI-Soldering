@@ -1,0 +1,24 @@
+{
+    "partname": "LFIINV459801569492-LC",
+    "parent_serial": "459801569492RLC2304-0001",
+    "operator": "1056912",
+    "datetime": "08-Feb-202316:02:46",
+    "steps": [
+        {
+            "Assy_step": 1,
+            "child_part_name": "LFIINV459801581581-C",
+            "child_part_serial": "459801581581RC2303-0001",
+            "integration_time": "09-Feb-202312:29:24",
+            "operator": "1056912",
+            "location": "A27(1581)2"
+        },
+        {
+            "Assy_step": 2,
+            "child_part_name": "LFIINV459801581672-LC",
+            "child_part_serial": "459801581672RLC2303-0004",
+            "integration_time": "09-Feb-202315:39:39",
+            "operator": "1056912",
+            "location": "A10(1672)1"
+        }
+    ]
+}

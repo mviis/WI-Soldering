@@ -1,0 +1,6 @@
+{
+    "curl": "http://medicalsanm-conduit.42-q.com:18003/conduit",
+    "murl": "https://medicalsanm.42-q.com/mes-api",
+    "data_source": "mp5678dc1",
+    "station": "438"
+}
